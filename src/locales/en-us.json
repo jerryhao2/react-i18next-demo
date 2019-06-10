@@ -1,0 +1,9 @@
+{
+  "icu_and_trans": "We invited <0>{numPersons, plural, =0 {no persons} =1 {one person} other {# persons}}</0>.",
+  "common": {
+    "cancel": "Cancel"
+  },
+  "join": "join",
+  "retry": "Retry after {{timer}}s",
+  "choosePerson": "Selected <0>{{num}}</0> people"
+}

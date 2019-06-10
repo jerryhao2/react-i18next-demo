@@ -1,0 +1,8 @@
+{
+  "common": {
+    "cancel": "取消"
+  },
+  "join": "加入",
+  "retry": "{{timer}}秒后重试",
+  "choosePerson": "选择人数<0>{{num}}</0>"
+}
